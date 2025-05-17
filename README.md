@@ -33,6 +33,6 @@ Cursando Análise e Desenvolvimento de Sistemas, busco continuamente me aperfei�
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/rodolpholacerda/))
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/rodolpholacerda/)])
 - 💻 [Meu currículo em PDF](#)
 - ✉️ rodolpholacerda@outlook.com
